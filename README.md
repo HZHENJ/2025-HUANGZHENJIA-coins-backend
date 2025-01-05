@@ -46,6 +46,7 @@ The backend is built using Dropwizard and provides functionality to calculate th
 ## Frontend Service
 
 The frontend is built with React.js and provides a simple interface to interact with the backend service.
+You can find the frontend source code and setup instructions in the [Backend GitHub Repository](https://github.com/HZHENJ/2025-HUANGZHENJIA-coins-frontend.git).
 
 ### Running the Frontend Service
 
